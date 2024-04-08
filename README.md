@@ -19,9 +19,6 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-#Program to swap two values.
-#Developed by:Pavithra S
-#RegisterNumber:23012348
 surya=input()
 vijay=input()
 temp=surya
@@ -31,7 +28,8 @@ print("Swapped values are: {} {}".format(surya,vijay))
 ```
 ##Output:
 
-![image](https://github.com/pavithraselvaraj30/Swapping-two-values/assets/149366880/396f02f3-2de8-4561-85f8-661ceb04bf67)
+![Screenshot 2024-04-08 155516](https://github.com/pavithraselvaraj30/Swapping-two-values/assets/149366880/0d1ad54a-bb3c-4a94-a6ae-575ca52f7014)
+
 
 
 ## RESULT:
